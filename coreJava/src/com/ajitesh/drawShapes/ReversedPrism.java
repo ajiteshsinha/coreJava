@@ -1,9 +1,16 @@
 package com.ajitesh.drawShapes;
 
+/**
+ * 
+ * @author Ajitesh
+ * @date May 15 2017
+ * One of the most frequently asked question at interview....
+ *
+ */
 public class ReversedPrism {
 	
 	public static void main(String[] args) {
-		createReversedPrism(12);
+		createReversedPrism(11);
 		
 		
 	}
