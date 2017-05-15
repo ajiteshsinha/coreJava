@@ -4,7 +4,7 @@ package com.ajitesh.drawShapes;
  * 
  * @author Ajitesh
  * @date May 15 2017
- * One of the most frequently asked question at interview....
+ * One of the asked question at interview....
  *
  */
 public class ReversedPrism {
